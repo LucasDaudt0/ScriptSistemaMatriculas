@@ -1,4 +1,4 @@
-#  Projeto: CRUD de Alunos com Supabase
+#  Projeto: Sistema de Matrículas com Supabase
 
 Este projeto demonstra como realizar operações básicas de CRUD (Create, Read, Update, Delete) utilizando JavaScript com `async/await` e integração com a API REST do Supabase.
 
